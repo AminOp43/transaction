@@ -165,14 +165,6 @@ The API runs on:
 http://localhost:8080
 ```
 
-## Testing
-
-Run all tests with:
-
-```bash
-go test ./...
-```
-
 ## Security
 
 * Passwords are hashed using bcrypt.
